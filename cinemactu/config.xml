@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cinemactu</name>
+	<displayName><![CDATA[cinemactu]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Ceci est un module d\'actualité ]]></description>
+	<author><![CDATA[Yoann Colin & Dubois Théophile]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

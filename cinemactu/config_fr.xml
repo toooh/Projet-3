@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cinemactu</name>
+	<displayName><![CDATA[cinemactu]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Ceci est un module d&#039;actualit&eacute; ]]></description>
+	<author><![CDATA[Yoann Colin & Dubois Th&eacute;ophile]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr ? ]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
